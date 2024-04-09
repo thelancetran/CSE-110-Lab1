@@ -27,7 +27,17 @@ Something that I cooked recently that I am proud of is this [beef stew served wi
 ### Past
 As a programmer, I felt like my skills really developed in CSE 100 and CSE 15L (*Software Tools&Techniques Lab*). 
 In CSE 100, I learned a lot about the general idea of data structures and how to determine which one would be suitable to use. 
-In this class, we worked on implementing various data structures in C++, in which I also learned about. For example, after a lot of these PA's (and projects), I got used to typing things like `Node* curr = this->root;`
+In this class, we worked on implementing various data structures in C++, in which I also learned about. For example, after a lot of these PA's (and projects), I got used to typing things like `Node* curr = this->root;`. 
+In CSE 15L, I was introduced to the command line, markdown, and git. I learned a lot about these concepts and how they can be important for programmers. Additionally, I learned the text editor vim in this class, where I remember using `i` to get into insert mode, `ESC` to go back, and `:wq` to save and exit. 
 
-### Present
-As a student, I am trying to learn as much as I can about programming before 
+### Present & Future
+As a student, I am trying to learn as much as I can about programming before I graduate to hopefully become a software engineer. I am hoping to learn about the transition from academia to industry and broaden my view on SE in CSE 110 (*Software Engineering*). The following are concepts that I expect to cover in this class, in which some I have already experience (marked with X).
+- [X] markdown
+- [ ] html
+- [ ] css
+- [ ] javascript
+- [X] diagramming
+- [X] requirements
+- [X] documentation
+- [ ] planning
+- [ ] design
