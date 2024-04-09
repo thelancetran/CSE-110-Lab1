@@ -20,4 +20,14 @@ If I had to rank my top 3 favorite exercises, I would have the following:
 3. Machine Pec Fly
   
 Additionally, my top game currently is [League of Legends](https://www.leagueoflegends.com/en-us/).
-Something that I cooked recently that I am proud of is this [beef stew served with rice](images/beef_stew.jpg).
+Something that I cooked recently that I am proud of is this [beef stew served with rice](images/beef_stew.jpg).  
+
+## Who I am as a programmer
+
+### Past
+As a programmer, I felt like my skills really developed in CSE 100 and CSE 15L (*Software Tools&Techniques Lab*). 
+In CSE 100, I learned a lot about the general idea of data structures and how to determine which one would be suitable to use. 
+In this class, we worked on implementing various data structures in C++, in which I also learned about. For example, after a lot of these PA's (and projects), I got used to typing things like `Node* curr = this->root;`
+
+### Present
+As a student, I am trying to learn as much as I can about programming before 
