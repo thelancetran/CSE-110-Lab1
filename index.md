@@ -20,4 +20,4 @@ If I had to rank my top 3 favorite exercises, I would have the following:
 3. Machine Pec Fly
   
 Additionally, my top game currently is [League of Legends](https://www.leagueoflegends.com/en-us/).
-Something that I cooked recently that I am proud of is this [beef stew served with rice]().
+Something that I cooked recently that I am proud of is this [beef stew served with rice](images/beefstew.jpg).
