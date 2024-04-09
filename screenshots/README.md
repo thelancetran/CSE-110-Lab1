@@ -1,1 +1,1 @@
-#This is a folder for screenshots
+# This is a folder for screenshots
